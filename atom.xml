@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://paxno.github.io</id>
+    <title>Gridea</title>
+    <updated>2019-06-19T17:57:31.079Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://paxno.github.io"/>
+    <link rel="self" href="https://paxno.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://paxno.github.io/images/avatar.png</logo>
+    <icon>https://paxno.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[读「麦田里的守望者」]]></title>
+        <id>https://paxno.github.io/post/du-mai-tian-li-de-shou-wang-zhe</id>
+        <link href="https://paxno.github.io/post/du-mai-tian-li-de-shou-wang-zhe">
+        </link>
+        <updated>2019-06-19T16:55:58.000Z</updated>
+        <content type="html"><![CDATA[<p>大概是去年这个时候买的书，那是个忧伤的夏天，以后我决定不再去书店约会了。</p>
+<p>读书是个吃时间的事，每天看点确实快。一周时间看完了这本，之所以要写“读后感”，倒不是有多少感悟。既然打算长久夜读，总得留下点什么。毕竟吃到肚里的东西，说出来，滋味才会记得长久。</p>
+<p>回想起我的高中，倒没霍尔顿那么急躁，毕竟学习和烦恼已经占据了生活的全部。他有点早熟，不是脏话不离口那种，只是对不喜欢的没什么耐心。除此之外，我们并不讨厌学校，如文森所说，学校教育会让你对自己的心性如何有个认识。他还有句话我觉得很不错：‘一个不成熟的人的标志是他愿意为了某个理由而轰轰烈烈地死去，而一个成熟的人的标志是他愿意为了某个理由而谦恭地活下去。’</p>
+<p>少年总爱幻想成为麦田里的守望者，毕竟“逃离”浪漫又自在。</p>
+<p>其实开始我没弄懂书名的意思，一直寻找稻草人在何处，直到出现两回“麦田”。</p>
+<pre><code>他不是在人行道上走而是紧靠着界沿石在马路上走。他象一般孩子那样在走着直线玩一边走一边还哼着歌儿。我走近去听他唱些什么。他正在唱那支歌：“你要是在麦田里捉到了我。”他的小嗓子还挺不错。他只是随便唱着玩你听得出来。汽车来去飞驰刹车声响成一片他的父母却一点也不注意他他呢只顾紧靠着界沿石走嘴里唱着“你要是在麦田里捉到了我。”这使我心情舒畅了不少。我心里不象先前那么沮丧了
+</code></pre>
+<pre><code> “你可知道那歌吗‘你要是在麦田里捉到了我’？我将来喜欢——”“是‘你要是在麦因里遇到了我’！”老菲芘说。“是一诗。罗伯特.彭斯写的。” 
+ “我知道那是罗伯特.彭斯写的一涛。” 
+她说的对。那的确是“你要是在麦田里遇到了我”。可我当时并不知道。 
+“我还以为是’你要是在麦田里捉到了我’呢”我说。“不管怎样我老是在想象有那么一群小孩子在一大块麦田里做游戏。几千几万个小孩子附近没有一个人——没有一个大人我是说——除了我。我呢就站在那混帐的悬崖边。我的职务是在那儿守望要是有哪个孩子往悬崖边奔来我就把他捉住——我是说孩子们都在狂奔也不知道自己是在往哪儿跑我得从什么地方出来把他们捉住。我整天就干这样的事。我只想当个麦田里的守望者。我知道这有点异想天开可我真正喜欢干的就是这个。我知道这不象话。
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://paxno.github.io/post/hello-gridea</id>
+        <link href="https://paxno.github.io/post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
