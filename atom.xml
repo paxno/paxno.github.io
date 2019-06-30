@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://paxno.github.io</id>
     <title>Paxno</title>
-    <updated>2019-06-27T02:27:58.273Z</updated>
+    <updated>2019-06-30T16:53:17.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://paxno.github.io"/>
     <link rel="self" href="https://paxno.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://paxno.github.io/images/avatar.png</logo>
     <icon>https://paxno.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Paxno</rights>
+    <entry>
+        <title type="html"><![CDATA[这些年待过的公司]]></title>
+        <id>https://paxno.github.io/post/zhe-xie-nian-dai-guo-de-gong-si</id>
+        <link href="https://paxno.github.io/post/zhe-xie-nian-dai-guo-de-gong-si">
+        </link>
+        <updated>2019-06-30T15:48:42.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>或许对少年来说，千篇一律最难忍受，热爱冒险才是乐趣。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>或许对少年来说，千篇一律最难忍受，热爱冒险才是乐趣。</p>
+</blockquote>
+<!-- more -->
+<p>毕业三年多了，我上大二开始实习，带上毕业后的两家公司，总共进过6家公司。</p>
+<p>实习一般来说只有短短几个月的时间，工作心态与能力提升幅度不会太大，在我记忆中有酸有甜，到是不遗憾。我的第一份工作是家典型的创业公司，创业公司的工作氛围很重要，但往往取决于老板或者少数领导的风格，办公地点不太大没办法。应届生刚进这种公司定位不会太明确，工作内容复杂，面试者给你的定位也不一定准确。这个阶段需要寻找自己的兴趣所在，发现自身不擅长的领域，这是进入职场必经之路，最大的收获莫过于此。</p>
+<p>正式工作后，试用期和实习时心态差不多，“哪里不好补哪里”，了解公司业务的同时自身进步很快。半年后工作得心应手，生活不似刚毕业时紧迫了，自信的心态带来工作上的高效。一年左右，基本能熟悉同事领导的性格，还有公司行事作风，不时也会讲些俏皮话了。如此持续下去，没有些压力人会懈怠，所以说周围的环境很重要，身边确实需要有望其项背的牛人。在一个公司的第二年，压力曲线陡然升高，有种危机感不得不作出计划改变。</p>
+<p>海水不再平静，我也准备扬帆起航，寻找属于自己的 ONE PIECE</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读「麦田里的守望者」]]></title>
         <id>https://paxno.github.io/post/du-mai-tian-li-de-shou-wang-zhe</id>
