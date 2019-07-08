@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://paxno.github.io</id>
     <title>Paxno</title>
-    <updated>2019-06-30T17:11:53.362Z</updated>
+    <updated>2019-07-08T16:09:28.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://paxno.github.io"/>
     <link rel="self" href="https://paxno.github.io/atom.xml"/>
@@ -11,17 +11,39 @@
     <icon>https://paxno.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Paxno</rights>
     <entry>
+        <title type="html"><![CDATA[魔方与套路]]></title>
+        <id>https://paxno.github.io/post/mo-fang-gong-shi-yu-ren-sheng-tao-lu</id>
+        <link href="https://paxno.github.io/post/mo-fang-gong-shi-yu-ren-sheng-tao-lu">
+        </link>
+        <updated>2019-07-03T06:10:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>魔方到底难不难？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>魔方到底难不难？</p>
+<!-- more -->
+<p>高中时经常看到有同学玩三阶魔方，但青春期的好奇心和旺盛的精力都不是解开秘密的钥匙，秘诀在于一套公式，得此公式苦练一周左即可炉火纯青。当时没觉得有多厉害，内心还有一丝不屑，认为只要背下公式，谁都同样玩的熟练。</p>
+<p>前一段时间看到同事桌上的魔方，便买来魔方借着兴趣看公式视频，学会了三阶和二阶。刚开始很难，记一遍忘一遍，不过一步步完成的过程很有乐趣。当然魔方我玩的不熟练，勉强可以还原，偶尔望见桌上的魔方会把玩一会，今日巧有所得。</p>
+<blockquote>
+<p>掌握有效的思维工具</p>
+</blockquote>
+<p>我们生活或工作中会遇到这种人，他们坚持并运用自我解决问题的方法论，不经意间会透露出“秘诀”的来源，常常是来自某人或书籍，深刻认同这种思维对自己的帮助提升。</p>
+<p>最开始我不以为然，觉得普通人读过这些书后也会有类似的感悟，程度深浅不同罢了。事实是，当初没读过这些书的人今天还未读，没有按书中的方式尝试的人，大概很难有机会尝试了。</p>
+<p>技巧在于有效工具的力量，正如我当年没有和朋友一起背公式，晚了很多年才得到其中乐趣。生活中会我们都会忽视或错过一些“套路“，但对别人起到了异常重要的作用。我是想说，能意识到套路是很重要的，说明这套东西或多或少有作用，套路运用熟练自然有所得，不断发现/使用/创新高级套路能够更加优秀。</p>
+<p>其实我们在成长和受教育的过程中，一直在培养这些能力，寻找解决问题的思维方法。比如解决当下、Just do it！这些都属于“工具”，工作中更专业性的方法论有STAR法则、产品思维等。像校招中优秀的同学不一定有创新，但展示的方案是“有套路的”，设计一款应用的面试题，绝不是给出设计稿完事，设计思路要有逻辑，比如分析产品定位、解决痛点、目标用户群体、五层模型、尼尔森可用性原则等。管理培训之类也有这个道理。</p>
+<p>日常“按部就班”的练习让我们从不成熟地运用得到较成熟的流程，不断地训练可以更熟练地解决问题。当然就像玩魔方一样，背公式只是对“怎么也解不开这可恶的魔方”的无奈之举，熟练后需要分析步骤原理，理解了原来如此，尝试用更快的方式还原它，甚至开始挑战记录。那掌握有效的思维方式后，如何做自然不必多说啦。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[这些年待过的公司]]></title>
         <id>https://paxno.github.io/post/zhe-xie-nian-dai-guo-de-gong-si</id>
         <link href="https://paxno.github.io/post/zhe-xie-nian-dai-guo-de-gong-si">
         </link>
         <updated>2019-06-30T15:48:42.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
-<p>或许，千篇一律最难忍受，冒险才算是旅途。</p>
+<p>或许，千篇一律最难忍受，冒险才算旅途。</p>
 </blockquote>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
-<p>或许，千篇一律最难忍受，冒险才算是旅途。</p>
+<p>或许，千篇一律最难忍受，冒险才算旅途。</p>
 </blockquote>
 <!-- more -->
 <p>毕业三年多了，我上大二开始实习，带上毕业后的两家公司，总共进过6家公司。</p>
